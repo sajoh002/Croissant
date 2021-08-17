@@ -1,0 +1,13 @@
+body {
+  background-color: #ffc83d;
+}
+
+h1 {
+  font-size: 65px;
+}
+
+.croissant-picture {
+  max-width: 800px;
+  display: block;
+  margin: 0 auto;
+}

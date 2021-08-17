@@ -7,6 +7,12 @@ h1 {
   font-size: 65px;
 }
 
-.croissant-picture {
-  max-width: 800px;
+@media (max-width: 576px) {
+  h1 {
+    font-size: 40px;
+  }
+
+  .photo-heading {
+    font-size: 25px;
+  }
 }
